@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>enabled</key>
+  <true/>
+  <key>showChevron</key>
+  <true/>
+  <key>lockSound</key>
+  <true/>
+  <key>customTextSize</key>
+  <string>25</string>
+  <key>customTextLabel</key>
+  <string>slide to unlock</string>
+  <key>customTextColor</key>
+  <string>#000000</string>
+</dict>
+</plist>
